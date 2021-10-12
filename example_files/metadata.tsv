@@ -1,4 +1,4 @@
-file.name	Sample	Status	Gender	Age	EBV	Diagnosis	Cohort
+file.name	Sample	Type	Gender	Age	EBV	Diagnosis	Cohort
 /home/your/Documents/TCR_analysis/TCR_analysis/example_files/case_13.txt	case_13	cHL	Male	> 37	Positive	MCHL	HC
 /home/your/Documents/TCR_analysis/TCR_analysis/example_files/case_15.txt	case_15	cHL	Male	> 37	Negative	NSHL	HC
 /home/your/Documents/TCR_analysis/TCR_analysis/example_files/RLN_01.txt	RLN_01	Reactive	r	r	r	r	Reactive

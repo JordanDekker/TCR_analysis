@@ -1,0 +1,5 @@
+Sample	Type	Gender	Age	EBV	Diagnosis	Cohort
+case_13	cHL	Male	> 37	Positive	MCHL	HC
+case_15	cHL	Male	> 37	Negative	NSHL	HC
+RLN_01	Reactive	r	r	r	r	Reactive
+RLN_02	Reactive	r	r	r	r	Reactive
