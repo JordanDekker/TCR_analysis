@@ -1,0 +1,4 @@
+optparse
+matplotlib
+numpy
+statannot
